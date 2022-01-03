@@ -6,7 +6,7 @@
 
 |Day|Title|Description|Language|Source|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|1|COUNTING SORT ALGO|One of the sorting method less time complexity(O(n))|CPP|<uploaded>|<update>|
+|1|COUNTING SORT ALGO|One of the sorting method, less time complexity(O(n))|CPP|<uploaded>|<update>|
 |2||||||
 |3||||||
 |4||||||

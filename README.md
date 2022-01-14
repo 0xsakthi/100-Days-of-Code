@@ -7,7 +7,7 @@
 |Day|Title|Description|Language|Source|Link|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|COUNTING SORT ALGO|One of the sorting method, less time complexity(O(n))|CPP|<uploaded>|<update>|
-|2||||||
+|2|Number of Good pairs|without bruteforce approach(ncr formula applied)|PYTHON|<a href="https://leetcode.com/problems/number-of-good-pairs/"></a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-03/number-of-good-pairs.py">View Code</a>|
 |3||||||
 |4||||||
 |5||||||

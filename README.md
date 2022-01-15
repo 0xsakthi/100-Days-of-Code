@@ -8,7 +8,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |1|COUNTING SORT ALGO|One of the sorting method, less time complexity(O(n))|CPP|<uploaded>|<update>|
 |2|Number of Good pairs|without bruteforce approach(ncr formula applied)|PYTHON|<a href="https://leetcode.com/problems/number-of-good-pairs/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-03/number-of-good-pairs.py">View Code</a>|
-|3||||||
+|3|Binary Search|algorithm with O(log n) runtime complexity|CPP|<a href="https://leetcode.com/problems/binary-search/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-04/Binary-Search-leetcode(704).cpp">View Code</a>|
 |4||||||
 |5||||||
 |6||||||

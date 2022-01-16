@@ -1,0 +1,18 @@
+class Solution {
+public:
+    char findTheDifference(string s, string t) {
+        unordered_map<int,int> umap;
+        for(int i=0;i<s.size();i++){
+            umap[s[i]]++;
+        }
+        for(int i=0;i<t.size();i++){
+            umap[t[i]]++;
+        }
+        for(int j=0;j<t.size();j++){
+            if(umap[t[j]]%2!=0){
+                return t[j];
+            }
+        }
+        return 'a';
+    }
+};

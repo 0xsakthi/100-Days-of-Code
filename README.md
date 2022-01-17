@@ -10,7 +10,7 @@
 |2|Number of Good pairs|without bruteforce approach(ncr formula applied)|PYTHON|<a href="https://leetcode.com/problems/number-of-good-pairs/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-03/number-of-good-pairs.py">View Code</a>|
 |3|Binary Search|algorithm with O(log n) runtime complexity|CPP|<a href="https://leetcode.com/problems/binary-search/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-04/Binary-Search-leetcode(704).cpp">View Code</a>|
 |4|Finding the missing char,Codechef Competetion Solved|Hashmap implemented solution |CPP,Python|<a href="https://www.codechef.com/JAN222C?order=desc&sortBy=successful_submissions">Codechef</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/tree/main/Day-05">View Code</a>|
-|5||||||
+|5|Balanced Brackets|Stack Method used to analyse the given brackets are balanced or not|CPP|<a href="https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true">HackerRank</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-06/Balanced-brackets.cpp">View Code</a>|
 |6||||||
 |7||||||
 |8||||||

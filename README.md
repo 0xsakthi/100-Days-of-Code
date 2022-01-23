@@ -14,7 +14,7 @@
 |6|Kadane's Algorithm|Given an array Arr[] of N integers. Find the contiguous sub-array(containing at least one number) which has the maximum sum and return its sum.|CPP|<a href="https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#">GFG-Practice</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-07/kadange-algo.cpp">View Code</a>|
 |7|Strong Password|All characters in passwords are in [a-z], [A-Z], [0-9], or [!@#$%^&*()-+ ]. and length should be len>6|Python|<a href="https://www.hackerrank.com/challenges/strong-password/problem?h_r=profile&isFullScreen=true">Hackerrank</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-08/strong-password.py">View Code</a>|
 |8|PALINDROME SUBSTRING|First find out substrings of String and return the count of Palindrome in Substrings|Python|<a href="https://leetcode.com/problems/palindromic-substrings/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-09/Palindrome-substring.py">View code</a>|
-|9||||||
+|9|Pairs|Given an array of integers and a target value, determine the number of pairs of array elements that have a difference equal to the target value. |Python|<a href="https://www.hackerrank.com/challenges/pairs/problem?h_r=profile&isFullScreen=false">Hackerrank</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-10/paris.py">View code</a>|
 |10||||||
 |11||||||
 |12||||||

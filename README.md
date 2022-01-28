@@ -18,7 +18,7 @@
 |10|Best Time to Buy and Sell|You are given an array prices where prices[i] is the price of a given stock on the ith dayReturn the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.|Python|<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-11/Best-time-to-Buy-and-Sell.py">View code</a>|
 |11|Pascal Triangle|Given an integer numRows, return the first numRows of Pascal's triangle.In Pascal's triangle, each number is the sum of the two numbers |Python|<a href="https://leetcode.com/problems/pascals-triangle/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-12/Pascal-Triangle.py">View code</a>|
 |12|Angry Professor| Arrival times go from on time () to arrived late ().Given the arrival time of each student and a threshhold number of attendees, determine if the class is cancelled.|Python3|<a href="https://www.hackerrank.com/challenges/angry-professor/problem?h_r=profile&isFullScreen=true">Hackerrank</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-13/Angry-proffessor.py">View code</a>|
-|13||||||
+|13|Binary Tree Preorder Traversal|Given the root of a binary tree, return the preorder traversal of its nodes' values|CPP|<a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-15/Binary-Tree-Preorder-Traversal.cpp">View code</a>|
 |14||||||
 |15||||||
 |16||||||

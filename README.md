@@ -20,7 +20,7 @@
 |12|Angry Professor| Arrival times go from on time () to arrived late ().Given the arrival time of each student and a threshhold number of attendees, determine if the class is cancelled.|Python3|<a href="https://www.hackerrank.com/challenges/angry-professor/problem?h_r=profile&isFullScreen=true">Hackerrank</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-13/Angry-proffessor.py">View code</a>|
 |13|Binary Tree Preorder Traversal|Given the root of a binary tree, return the preorder traversal of its nodes' values|CPP|<a href="https://leetcode.com/problems/binary-tree-preorder-traversal/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-15/Binary-Tree-Preorder-Traversal.cpp">View code</a>|
 |14|Reverse a String By Dots|Given a String S, reverse the string without reversing its individual words. Words are separated by dots.|Python3|<a href="https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1?utm_source=gfgpractice&utm_medium=banner&utm_campaign=Practice_Explore_POD_Top_Banner#">GeeksForgeeks</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-16/Reverse-a-String.py">View code</a>|
-|15||||||
+|15|Counting Bits|Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i.|CPP|<a href="https://leetcode.com/problems/counting-bits/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-17/Counting-bits.cpp">View code</a>|
 |16||||||
 |17||||||
 |18||||||

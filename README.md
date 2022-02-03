@@ -22,8 +22,8 @@
 |14|Reverse a String By Dots|Given a String S, reverse the string without reversing its individual words. Words are separated by dots.|Python3|<a href="https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1?utm_source=gfgpractice&utm_medium=banner&utm_campaign=Practice_Explore_POD_Top_Banner#">GeeksForgeeks</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-16/Reverse-a-String.py">View code</a>|
 |15|Counting Bits|Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i.|CPP|<a href="https://leetcode.com/problems/counting-bits/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-17/Counting-bits.cpp">View code</a>|
 |16|Group Anagrams|Given an array of strings strs, group the anagrams together. You can return the answer in any order.An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.|Python3|<a href="https://github.com/0xsakthi/100-Days-of-Code/tree/main/Day-18">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-18/Group-Anagrams.py">View code</a>|
-|17||||||
-|18||||||
+|17|CodeChef| Starters24 Competion|Python3|<a href="https://www.codechef.com/START24C">Codechef</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/tree/main/Day-19">View code</a>|
+|18|Maximum Product of Word Lengths|Given a string array words, return the maximum value of length(word[i]) * length(word[j]) where the two words do not share common letters. If no such two words exist, return 0.|Python3|<a href="https://leetcode.com/problems/maximum-product-of-word-lengths/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day20/Maximum-Product-of-word-lengths.py">View code</a>|
 |19||||||
 |20||||||
 |21||||||

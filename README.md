@@ -26,7 +26,7 @@
 |18|Maximum Product of Word Lengths|Given a string array words, return the maximum value of length(word[i]) * length(word[j]) where the two words do not share common letters. If no such two words exist, return 0.|Python3|<a href="https://leetcode.com/problems/maximum-product-of-word-lengths/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day20/Maximum-Product-of-word-lengths.py">View code</a>|
 |19|Integer To Roman|Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.|Python3|<a href="https://leetcode.com/problems/integer-to-roman/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-21/Integer-to-Roman.py">View code</a>|
 |20|Number of Pairs of Strings With Concatenation Equal to Target|Given an array of digit strings nums and a digit string target, return the number of pairs of indices (i, j) (where i != j) such that the concatenation of nums[i] + nums[j] equals target.|CPP|<a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-22/Numbers-of-pairs-of-strings.cpp">View code</a>|
-|21||||||
+|21|Longest Consecutive Sequence|Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.You must write an algorithm that runs in O(n) time.|Python3|<a href="https://leetcode.com/problems/longest-consecutive-sequence/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-23/Longest-Consecutive-Sequence.py">View code</a>|
 |22||||||
 |23||||||
 |24||||||

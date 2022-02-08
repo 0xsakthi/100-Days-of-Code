@@ -28,7 +28,8 @@
 |20|Number of Pairs of Strings With Concatenation Equal to Target|Given an array of digit strings nums and a digit string target, return the number of pairs of indices (i, j) (where i != j) such that the concatenation of nums[i] + nums[j] equals target.|CPP|<a href="https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-22/Numbers-of-pairs-of-strings.cpp">View code</a>|
 |21|Longest Consecutive Sequence|Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.You must write an algorithm that runs in O(n) time.|Python3|<a href="https://leetcode.com/problems/longest-consecutive-sequence/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-23/Longest-Consecutive-Sequence.py">View code</a>|
 |22|Rotate The Array|Given an array, rotate the array to the right by k steps, where k is non-negative.|CPP|<a href="https://leetcode.com/problems/rotate-array/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-24/Rotate.array.cpp">View code</a>|
-|23||||||
+|23|Is Subsequence-Leetcode|Given two strings s and t, return true if s is a subsequence of t, or false otherwise.
+A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).|Python|a href="https://leetcode.com/problems/is-subsequence/">Leetcode</a>|<a href="https://leetcode.com/problems/rotate-array/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-25/Is-Subsequence.py">View code</a>|
 |24||||||
 |25||||||
 |26||||||

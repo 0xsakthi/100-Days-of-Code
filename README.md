@@ -29,7 +29,7 @@
 |21|Longest Consecutive Sequence|Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.You must write an algorithm that runs in O(n) time.|Python3|<a href="https://leetcode.com/problems/longest-consecutive-sequence/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-23/Longest-Consecutive-Sequence.py">View code</a>|
 |22|Rotate The Array|Given an array, rotate the array to the right by k steps, where k is non-negative.|CPP|<a href="https://leetcode.com/problems/rotate-array/">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-24/Rotate.array.cpp">View code</a>|
 |23|Is Subsequence-Leetcode|A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., "ace" is a subsequence of "abcde" while "aec" is not).|Python3|<a href="https://leetcode.com/problems/is-subsequence">Leetcode</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-25/Is-Subsequence.py">View code</a>|
-|24||||||
+|24|String Reverse(n)|Minimum number of ways to reverse the String|CPP|<a href="https://www.codechef.com/problems/STR_REVERSE">Codechef</a>|<a href="https://github.com/0xsakthi/100-Days-of-Code/blob/main/Day-26/Str_reverse.cpp">View code</a>|
 |25||||||
 |26||||||
 |27||||||
